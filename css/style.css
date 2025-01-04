@@ -1,0 +1,12 @@
+body{
+    background-color: #f6f8ff;
+}
+
+
+.re{
+    background-color:#b17878 ;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+    transition: all 1s linear;
+}
